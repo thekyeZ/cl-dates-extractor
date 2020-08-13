@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "googleapis": "^39.2.0",
+    "moment": "^2.27.0",
     "pdf-parse": "^1.1.1"
   }
 }
