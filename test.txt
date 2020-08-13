@@ -1,0 +1,431 @@
+------------------------
+KURS JAVASCRIPT DEVELOPER: REACT 
+HARMONOGRAM KURSU | WEEKENDOWY 
+BLOK WEEKEND DATA 
+DZIEŃ 
+TYGODNIA GODZINY FORMUŁA TEMAT 
+0 0 
+1 tydz 30h nauka zdalna Prework HTML 
+2h Wirtualna Klasa Sesja powitalna, Prework Q&A (2h) 
+2 tydz 30h nauka zdalna Prework JS 
+BLOK 
+------------------------
+04.04.2020 
+sobota 9:00-17:00 zajęcia stacjonarne Zaawansowany HTML i CSS 
+05.04.2020 niedziela 9:00-17:00 
+zajęcia stacjonarne 
+Zaawansowany HTML i CSS 
+------------------------
+18.04.2020 
+sobota 
+9:00-17:00 
+zajęcia stacjonarne 
+Zaawansowany HTML i CSS 
+19.04.2020 niedziela 
+9:00-17:00 zajęcia stacjonarne Zaawansowany HTML i CSS  
+------------------------
+25.04.2020 
+sobota 
+9:00-17:00 
+nauka zdalna 
++Wirtualna Klasa 
+Weekend warsztatowy + warsztatowe 
+Q&A (1h) 
+26.04.2020 
+niedziela 
+4h nauka zdalna Powtórka materiału + zadania  
+------------------------
+09.05.2020 
+sobota 9:00-17:00 zajęcia stacjonarne Sass / Grid / RWD 
+10.05.2020 
+niedziela 9:00-17:00 zajęcia stacjonarne Sass / Grid / RWD 
+------------------------
+23.05.2020 
+sobota 9:00-17:00 zajęcia stacjonarne Sass / Grid / RWD 
+24.05.2020 
+niedziela 9:00-17:00 zajęcia stacjonarne Sass / Grid / RWD  
+------------------------
+30.05.2020 
+sobota 
+9:00-17:00 
+nauka zdalna 
++Wirtualna Klasa 
+Weekend warsztatowy + warsztatowe 
+Q&A (1h) 
+31.05.2020 
+niedziela 
+4h 
+nauka zdalna 
++Wirtualna Klasa 
+Powtórka materiału + zadania +Q&A przed 
+egzaminem (1h) 
+------------------------
+06.06.2020 sobota 9:00-11:00 egzamin Egzamin pisemny (zdalnie) 
+07.06.2020 niedziela 4h nauka zdalna Ćwiczenia i zadania 
+10.06.2020 środa 2h 
+egzamin 
+poprawkowy Egzamin poprawkowy (zdalnie)  
+BLOK 
+------------------------
+10 
+13.06.2020 
+sobota 
+9:00-17:00 
+zajęcia stacjonarne 
+JavaScript 
+14.06.2020 
+niedziela 
+9:00-17:00 
+zajęcia stacjonarne 
+JavaScript 
+------------------------
+27.06.2020 
+sobota 
+9:00-17:00 
+zajęcia stacjonarne 
+JavaScript 
+28.06.2020 
+niedziela 
+9:00-17:00 
+zajęcia stacjonarne 
+JavaScript  
+------------------------
+04.07.2020 
+sobota 
+9:00-17:00 
+nauka zdalna 
++Wirtualna Klasa 
+Weekend warsztatowy + warsztatowe 
+Q&A (1h) 
+05.07.2020 niedziela 4h nauka zdalna Powtórka materiału + zadania 
+------------------------
+11.07.2020 
+sobota 
+9:00-17:00 
+zajęcia stacjonarne 
+ES6+ 
+12.07.2020 
+niedziela 
+9:00-17:00 
+zajęcia stacjonarne 
+ES6+  
+------------------------
+25.07.2020 
+sobota 
+9:00-17:00 
+zajęcia stacjonarne 
+React 
+26.07.2020 
+niedziela 
+9:00-17:00 
+zajęcia stacjonarne 
+React  
+------------------------
+01.08.2020 
+sobota 
+9:00-17:00 
+nauka zdalna 
++Wirtualna Klasa 
+Weekend warsztatowy + warsztatowe 
+Q&A (1h) 
+02.08.2020 
+niedziela 
+4h 
+nauka zdalna 
++Wirtualna Klasa 
+Powtórka materiału + zadania +Q&A przed 
+egzaminem (1h) 
+------------------------
+(08-
+21.08.2020) pon-sob 40 h 
+nauka zdalna 
++Wirtualna Klasa Scrum Lab 
+08.08.2020 sobota 9:00-11:00 egzamin Egzamin pisemny (zdalnie) 
+09.08.2020 
+niedziela 
+4h nauka zdalna Ćwiczenia i zadania 
+13.08.2020 czwartek 2h 
+egzamin 
+poprawkowy Egzamin poprawkowy (zdalnie)  
+BLOK 
+------------------------
+05.09.2020 
+sobota 
+9:00-17:00 
+zajęcia stacjonarne 
+React 
+06.09.2020 
+niedziela 
+9:00-17:00 
+zajęcia stacjonarne 
+React 
+------------------------
+12.09.2020 
+sobota 
+9:00-17:00 
+nauka zdalna 
++Wirtualna Klasa 
+Weekend warsztatowy + warsztatowe 
+Q&A (1h) 
+13.09.2020 
+niedziela 
+4h nauka zdalna Powtórka materiału + zadania 
+------------------------
+19.09.2020 
+sobota 
+40h 
+nauka zdalna 
++Wirtualna Klasa 
+Praca nad Projektem Końcowym 
+2x sesja indywidualna (30 min) 
+2x Wirtualna Klasa (1h) 
+20.09.2020 
+niedziela 
+------------------------
+26.09.2020 
+sobota 
+27.09.2020 
+niedziela 
+------------------------
+03.10.2020 
+sobota 
+40h 
+nauka zdalna 
++Wirtualna Klasa 
+Praca nad Projektem Końcowym 
+Sesja indywidualna (30 min) 
+Wirtualna Klasa (1h) 
+04.10.2020 
+niedziela 
+------------------------
+10.10.2020 
+sobota 
+11.10.2020 
+niedziela 
+1h Wirtualna Klasa Zakończenie Kursu (1h) 
+Wirtualna  Klasa - zdalne spotkania z Wykładowcą/Mentorem i grupą. Dokładne terminy i godziny zostaną 
+udostępnione na min tydzień przed planowanym spotkaniem. 
+Nauka zdalna - samodzielna nauka w domu na podstawie udostępnionych materiałów 
+Scrum Lab odbywa się zdalnie, wg harmonogramu udostępnionego przez CL.  
+Portfolio Lab - termin realizacji 4-6 tyg po kursie wg indywidualnego harmonogramu udostępnionego przez CL. ------------------------
+04.04.2020 
+sobota 9:00-17:00 zajęcia stacjonarne Zaawansowany HTML i CSS 
+05.04.2020 niedziela 9:00-17:00 
+zajęcia stacjonarne 
+Zaawansowany HTML i CSS 
+------------------------
+18.04.2020 
+sobota 
+9:00-17:00 
+zajęcia stacjonarne 
+Zaawansowany HTML i CSS 
+19.04.2020 niedziela 
+9:00-17:00 zajęcia stacjonarne Zaawansowany HTML i CSS  
+------------------------
+04.04.2020 
+sobota 9:00-17:00 zajęcia stacjonarne Zaawansowany HTML i CSS 
+05.04.2020 niedziela 9:00-17:00 
+zajęcia stacjonarne 
+Zaawansowany HTML i CSS 
+------------------------
+18.04.2020 
+sobota 
+9:00-17:00 
+zajęcia stacjonarne 
+Zaawansowany HTML i CSS 
+19.04.2020 niedziela 
+9:00-17:00 zajęcia stacjonarne Zaawansowany HTML i CSS  
+------------------------
+04.04.2020 
+sobota 9:00-17:00 zajęcia stacjonarne Zaawansowany HTML i CSS 
+05.04.2020 niedziela 9:00-17:00 
+zajęcia stacjonarne 
+Zaawansowany HTML i CSS 
+------------------------
+18.04.2020 
+sobota 
+9:00-17:00 
+zajęcia stacjonarne 
+Zaawansowany HTML i CSS 
+19.04.2020 niedziela 
+9:00-17:00 zajęcia stacjonarne Zaawansowany HTML i CSS  
+------------------------
+04.04.2020 
+sobota 9:00-17:00 zajęcia stacjonarne Zaawansowany HTML i CSS 
+05.04.2020 niedziela 9:00-17:00 
+zajęcia stacjonarne 
+Zaawansowany HTML i CSS 
+------------------------
+18.04.2020 
+sobota 
+9:00-17:00 
+zajęcia stacjonarne 
+Zaawansowany HTML i CSS 
+19.04.2020 niedziela 
+9:00-17:00 zajęcia stacjonarne Zaawansowany HTML i CSS  
+------------------------
+25.04.2020 
+sobota 
+9:00-17:00 
+nauka zdalna 
++Wirtualna Klasa 
+Weekend warsztatowy + warsztatowe 
+Q&A (1h) 
+26.04.2020 
+niedziela 
+4h nauka zdalna Powtórka materiału + zadania  
+------------------------
+09.05.2020 
+sobota 9:00-17:00 zajęcia stacjonarne Sass / Grid / RWD 
+10.05.2020 
+niedziela 9:00-17:00 zajęcia stacjonarne Sass / Grid / RWD 
+------------------------
+04.04.2020 
+sobota 9:00-17:00 zajęcia stacjonarne Zaawansowany HTML i CSS 
+05.04.2020 niedziela 9:00-17:00 
+zajęcia stacjonarne 
+Zaawansowany HTML i CSS 
+------------------------
+18.04.2020 
+sobota 
+9:00-17:00 
+zajęcia stacjonarne 
+Zaawansowany HTML i CSS 
+19.04.2020 niedziela 
+9:00-17:00 zajęcia stacjonarne Zaawansowany HTML i CSS  
+------------------------
+25.04.2020 
+sobota 
+9:00-17:00 
+nauka zdalna 
++Wirtualna Klasa 
+Weekend warsztatowy + warsztatowe 
+Q&A (1h) 
+26.04.2020 
+niedziela 
+4h nauka zdalna Powtórka materiału + zadania  
+------------------------
+09.05.2020 
+sobota 9:00-17:00 zajęcia stacjonarne Sass / Grid / RWD 
+10.05.2020 
+niedziela 9:00-17:00 zajęcia stacjonarne Sass / Grid / RWD 
+------------------------
+04.04.2020 
+sobota 9:00-17:00 zajęcia stacjonarne Zaawansowany HTML i CSS 
+05.04.2020 niedziela 9:00-17:00 
+zajęcia stacjonarne 
+Zaawansowany HTML i CSS 
+------------------------
+18.04.2020 
+sobota 
+9:00-17:00 
+zajęcia stacjonarne 
+Zaawansowany HTML i CSS 
+19.04.2020 niedziela 
+9:00-17:00 zajęcia stacjonarne Zaawansowany HTML i CSS  
+------------------------
+25.04.2020 
+sobota 
+9:00-17:00 
+nauka zdalna 
++Wirtualna Klasa 
+Weekend warsztatowy + warsztatowe 
+Q&A (1h) 
+26.04.2020 
+niedziela 
+4h nauka zdalna Powtórka materiału + zadania  
+------------------------
+09.05.2020 
+sobota 9:00-17:00 zajęcia stacjonarne Sass / Grid / RWD 
+10.05.2020 
+niedziela 9:00-17:00 zajęcia stacjonarne Sass / Grid / RWD 
+------------------------
+04.04.2020 
+sobota 9:00-17:00 zajęcia stacjonarne Zaawansowany HTML i CSS 
+05.04.2020 niedziela 9:00-17:00 
+zajęcia stacjonarne 
+Zaawansowany HTML i CSS 
+------------------------
+18.04.2020 
+sobota 
+9:00-17:00 
+zajęcia stacjonarne 
+Zaawansowany HTML i CSS 
+19.04.2020 niedziela 
+9:00-17:00 zajęcia stacjonarne Zaawansowany HTML i CSS  
+------------------------
+25.04.2020 
+sobota 
+9:00-17:00 
+nauka zdalna 
++Wirtualna Klasa 
+Weekend warsztatowy + warsztatowe 
+Q&A (1h) 
+26.04.2020 
+niedziela 
+4h nauka zdalna Powtórka materiału + zadania  
+------------------------
+09.05.2020 
+sobota 9:00-17:00 zajęcia stacjonarne Sass / Grid / RWD 
+10.05.2020 
+niedziela 9:00-17:00 zajęcia stacjonarne Sass / Grid / RWD 
+------------------------
+04.04.2020 
+sobota 9:00-17:00 zajęcia stacjonarne Zaawansowany HTML i CSS 
+05.04.2020 niedziela 9:00-17:00 
+zajęcia stacjonarne 
+Zaawansowany HTML i CSS 
+------------------------
+18.04.2020 
+sobota 
+9:00-17:00 
+zajęcia stacjonarne 
+Zaawansowany HTML i CSS 
+19.04.2020 niedziela 
+9:00-17:00 zajęcia stacjonarne Zaawansowany HTML i CSS  
+------------------------
+25.04.2020 
+sobota 
+9:00-17:00 
+nauka zdalna 
++Wirtualna Klasa 
+Weekend warsztatowy + warsztatowe 
+Q&A (1h) 
+26.04.2020 
+niedziela 
+4h nauka zdalna Powtórka materiału + zadania  
+------------------------
+09.05.2020 
+sobota 9:00-17:00 zajęcia stacjonarne Sass / Grid / RWD 
+10.05.2020 
+niedziela 9:00-17:00 zajęcia stacjonarne Sass / Grid / RWD 
+------------------------
+04.04.2020 
+sobota 9:00-17:00 zajęcia stacjonarne Zaawansowany HTML i CSS 
+05.04.2020 niedziela 9:00-17:00 
+zajęcia stacjonarne 
+Zaawansowany HTML i CSS 
+------------------------
+18.04.2020 
+sobota 
+9:00-17:00 
+zajęcia stacjonarne 
+Zaawansowany HTML i CSS 
+19.04.2020 niedziela 
+9:00-17:00 zajęcia stacjonarne Zaawansowany HTML i CSS  
+------------------------
+25.04.2020 
+sobota 
+9:00-17:00 
+nauka zdalna 
++Wirtualna Klasa 
+Weekend warsztatowy + warsztatowe 
+Q&A (1h) 
+26.04.2020 
+niedziela 
+4h nauka zdalna Powtórka materiału + zadania  
+------------------------
+09.05.2020 
+sobota 9:00-17:00 zajęcia stacjonarne Sass / Grid / RWD 
+10.05.2020 
+niedziela 9:00-17:00 zajęcia stacjonarne Sass / Grid / RWD 
